@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.junitassertin.JunitAssertionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-06T07:45:29" hostname="DESKTOP-25DPEJS" time="0.009">
+  <properties/>
+  <testcase name="assertionTests" classname="com.junitassertin.JunitAssertionTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
